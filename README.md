@@ -1,1 +1,1 @@
-# VRPerceptionStudy
+#Spatial perception study
